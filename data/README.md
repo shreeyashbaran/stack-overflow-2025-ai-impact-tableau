@@ -9,6 +9,7 @@ Place the full file here (local only):
 - `data/raw/survey_results_public.csv`
 
 The original raw file contains **53,853 responses** across **177 countries**.
+Here's the link to obtain the original dataset: https://survey.stackoverflow.co/
 
 ## Included in this repo
 - `data/sample/survey_results_schema.csv`
