@@ -1,0 +1,41 @@
+Policy Lever,Component,Value,Impact Score,Strategic Risk
+Uses AI Agents,ΔHighAI (Adoption Uplift),0.5486080269208695,0.6021266356683256,High Risk
+Uses AI Agents,ΔTools (Productivity Uplift),-0.0057500122925666,0.6021266356683256,High Risk
+Uses AI Agents,ΔJob Satisfaction Uplift,0.1352308508455379,0.6021266356683256,High Risk
+Uses AI Agents,ΔAI Threat (Penalty),0.0374060350967654,0.6021266356683256,High Risk
+Uses AI Agents,ΔSO Friction (Penalty),0.0930504882730637,0.6021266356683256,High Risk
+High AI Tool Usage (weekly/daily),ΔHighAI (Adoption Uplift),0.3888919165817223,0.4268296668647445,Medium Risk
+High AI Tool Usage (weekly/daily),ΔTools (Productivity Uplift),-0.0040760127287514,0.4268296668647445,Medium Risk
+High AI Tool Usage (weekly/daily),ΔJob Satisfaction Uplift,0.0958611288673029,0.4268296668647445,Medium Risk
+High AI Tool Usage (weekly/daily),ΔAI Threat (Penalty),0.0265160259541781,0.4268296668647445,Medium Risk
+High AI Tool Usage (weekly/daily),ΔSO Friction (Penalty),0.0659607241375568,0.4268296668647445,Medium Risk
+AI Training Access,ΔHighAI (Adoption Uplift),0.3341982270148154,0.3668004188859146,Low Risk
+AI Training Access,ΔTools (Productivity Uplift),-0.0035027630278664,0.3668004188859146,Low Risk
+AI Training Access,ΔJob Satisfaction Uplift,0.0823792368550277,0.3668004188859146,Low Risk
+AI Training Access,ΔAI Threat (Penalty),0.0227868168082711,0.3668004188859146,Low Risk
+AI Training Access,ΔSO Friction (Penalty),0.0566840196966462,0.3668004188859146,Low Risk
+Positive Attitude Toward AI,ΔHighAI (Adoption Uplift),0.078409810983047,0.0860589589904438,Low Risk
+Positive Attitude Toward AI,ΔTools (Productivity Uplift),-0.0008218205984714,0.0860589589904438,Low Risk
+Positive Attitude Toward AI,ΔJob Satisfaction Uplift,0.0193278715103537,0.0860589589904438,Low Risk
+Positive Attitude Toward AI,ΔAI Threat (Penalty),0.0053462581618144,0.0860589589904438,Low Risk
+Positive Attitude Toward AI,ΔSO Friction (Penalty),0.0132992425180529,0.0860589589904438,Low Risk
+Broad Language Stack,ΔHighAI (Adoption Uplift),0.0311561834362336,0.0341955767909872,Low Risk
+Broad Language Stack,ΔTools (Productivity Uplift),-0.0003265508868933,0.0341955767909872,Low Risk
+Broad Language Stack,ΔJob Satisfaction Uplift,0.0076799408474372,0.0341955767909872,Low Risk
+Broad Language Stack,ΔAI Threat (Penalty),0.0021243387517279,0.0341955767909872,Low Risk
+Broad Language Stack,ΔSO Friction (Penalty),0.005284461654231,0.0341955767909872,Low Risk
+Has Stack Overflow Account,ΔHighAI (Adoption Uplift),0.0239937156047871,0.0263343854725934,No Added Friction
+Has Stack Overflow Account,ΔTools (Productivity Uplift),-0.000251480388368,0.0263343854725934,No Added Friction
+Has Stack Overflow Account,ΔJob Satisfaction Uplift,0.0059144059455208,0.0263343854725934,No Added Friction
+Has Stack Overflow Account,ΔAI Threat (Penalty),0.0016359763692337,0.0263343854725934,No Added Friction
+Has Stack Overflow Account,ΔSO Friction (Penalty),0.0040696213743742,0.0263343854725934,No Added Friction
+Has SQL/Data Skill,ΔHighAI (Adoption Uplift),0.0238517292920298,0.0261785479043912,Low Risk
+Has SQL/Data Skill,ΔTools (Productivity Uplift),-0.000249992216479,0.0261785479043912,Low Risk
+Has SQL/Data Skill,ΔJob Satisfaction Uplift,0.0058794065854305,0.0261785479043912,Low Risk
+Has SQL/Data Skill,ΔAI Threat (Penalty),0.0016262952403809,0.0261785479043912,Low Risk
+Has SQL/Data Skill,ΔSO Friction (Penalty),0.0040455387961365,0.0261785479043912,Low Risk
+Frequent Stack Overflow Visitor,ΔHighAI (Adoption Uplift),-0.0055812485610287,-0.0061257186442254,Low Risk
+Frequent Stack Overflow Visitor,ΔTools (Productivity Uplift),5.8497590736881455e-05,-0.0061257186442254,Low Risk
+Frequent Stack Overflow Visitor,ΔJob Satisfaction Uplift,-0.0013757673140958,-0.0061257186442254,Low Risk
+Frequent Stack Overflow Visitor,ΔAI Threat (Penalty),-0.0003805492616091,-0.0061257186442254,Low Risk
+Frequent Stack Overflow Visitor,ΔSO Friction (Penalty),-0.0009466465641997,-0.0061257186442254,Low Risk
